@@ -51,7 +51,7 @@
     <div class="checkbox">
         <label><input type="checkbox" value=""/> Remember me</label>
     </div><br />
-    <button type="submit" class="btn btn-success"><span class="glyphicon glyphicon-off"></span> Login</button><br/>
+    <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-off"></span> Login</button><br/>
     <br /> <center><div style="border:1px solid black;height:1px;width:300px;"></div></center><br />
     <div class="footer">
         <p>Don't have an Account! <a href="#">Sign Up Here</a></p>
