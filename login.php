@@ -23,7 +23,7 @@
         .row{
             height:90px;
             width:396px;
-            background-color:paleturquoise;
+            background-color:blue;
         }
     </style>
 </head>
